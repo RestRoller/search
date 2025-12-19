@@ -142,3 +142,5 @@ func main() {
 	fmt.Printf("Размер каждого чанка: %d элементов\n", len(data)/CHUNKS)
 	fmt.Printf("Использовано горутин: %d\n", CHUNKS)
 }
+
+// Вроде все
